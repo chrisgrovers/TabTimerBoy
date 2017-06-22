@@ -7,7 +7,7 @@
 
   "browser_action": {
     "default_icon": "timer-icon.png",
-    "default_popup": "popup.html",
+    "default_popup": "/src/index.js",
     "default_title": "Open tab later!"
   },
   "permissions": [
